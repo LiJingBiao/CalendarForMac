@@ -1,6 +1,6 @@
 {
   "version": "1.0.6",
-  "installUrl": "https://example.com/download",
+  "installUrl": "https://github.com/LiJingBiao/CalendarForMac/releases",
   "forceUpdate": false,
   "releaseNotes": "添加创建日程功能"
 }
